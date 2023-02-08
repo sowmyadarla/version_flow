@@ -1,0 +1,6 @@
+flows:
+  1bef1fe0-c8d8-4bbd-be45-2e08aa66fc57: {ver: 1, file: nifi_usecase_haathi.snapshot,
+    comments: '0.1', author: anonymous, created: 1675852258480, flowName: nifi_usecase_haathi,
+    flowDesc: ''}
+layoutVer: 1
+bucketId: 996f49c3-1ff8-4dfe-803b-0ea976ebedb3
